@@ -1,4 +1,4 @@
-# Neural Network Neuron Activations
+# Neural Network - Neuron Activation Analysis
 
 (WIP!) Project on neuron activations in neural networks using Agentic AI concepts inspired by the AutoGen and StateFlow papers. This project is meant to be a tool for analyzing and visualizing neuron activations in neural networks, with a focus on understanding polysemantic neurons and activation patterns. In the project, I have used the GPT-2-small model from Hugging Face. You can easily swap it out for any other model.
 
